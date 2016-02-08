@@ -1,0 +1,13 @@
+{
+    "cities": [
+        {"city": "Gurgaon", "population": 300},
+        {"city": "Delhi", "population": 400},
+        {"city": "Noida", "population": 2500},
+        {"city": "Gaziabad", "population": 2600},
+        {"city": "Faridabad", "population": 600},
+        {"city": "Hissar", "population": 7500},
+        {"city": "UP", "population": 45500},
+        {"city": "Panjab", "population": 3400},
+        {"city": "Gujrat", "population": 6400}
+    ]
+}
